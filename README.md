@@ -130,7 +130,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## Contact
 
-Youssef Bouhssina - [Your Email or LinkedIn]
+Youssef Bouhssina - [ysf.bouhssina@gmail.com]
 
 ---
 
