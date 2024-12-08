@@ -76,12 +76,30 @@ skailly/
 │
 ├── src/
 │   ├── components/
+│   │   ├── App.css
+│   │   ├── App.jsx
+│   │   ├── index.css
+│   │   └── main.jsx
 │   ├── assets/
+│   │   └── images and other static assets
 │   ├── styles/
+│   │   └── Tailwind CSS configuration and custom styles
 │   └── utils/
+│       └── API calls and helper functions
 │
 ├── public/
-└── README.md
+│   └── index.html
+│
+├── .gitignore
+├── ChangeLogs.md
+├── eslint.config.js
+├── index.html
+├── package.json
+├── package-lock.json
+├── postcss.config.js
+├── README.md
+├── tailwind.config.js
+└── vite.config.js
 ```
 
 ## API Reference
