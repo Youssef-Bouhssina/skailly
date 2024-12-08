@@ -1,0 +1,1 @@
+Setup Tailwind CSS and Clean Up Assets.
